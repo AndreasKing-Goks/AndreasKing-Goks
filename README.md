@@ -1,16 +1,15 @@
-### Hi there 👋
+## Why Hello There! 👋 
 
-<!--
-**AndreasKing-Goks/AndreasKing-Goks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Andreas Raja Goklas Sitorus**, you can call me *GOKS*!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently interested Maritime Sciences-Artificial Intelligence
+- 💬 Ask me about Ship and Naval things, 3D Designs, and CFD
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreassitorus/)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm a Naval Architecture graduates!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nice to know you!
+
+and,
+
+***GODSPEED!***
