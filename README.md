@@ -2,10 +2,9 @@
 
 I am **Andreas Raja Goklas Sitorus**, you can call me *GOKS*!
 
-- 🌱 I’m currently interested Maritime Sciences-Artificial Intelligence
-- 💬 Ask me about Ship and Naval things, 3D Designs, and CFD
+- 🌱 I’m currently studying Marine and Maritime Intelligent Robotics
+- 💬 Discuss me things about Ship and Naval things, 3D Designs, CFD, Computer Vision and Robotics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreassitorus/)
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm a Naval Architecture graduates!
 
 Nice to know you!
