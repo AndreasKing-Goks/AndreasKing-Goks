@@ -2,16 +2,13 @@
 
 I am **Andreas Raja Goklas Sitorus**, you can call me *GOKS*!
 
-- 🌱 I’m currently studying Marine and Maritime Intelligent Robotics
-- 💬 Discuss me things about Ship and Naval things, 3D Designs, CFD, Computer Vision and Robotics
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreassitorus/)
-- ⚡ Fun fact: I'm a Naval Architecture and Shipbuilding Engineering graduate!
+- I’m currently studying Marine and Maritime Intelligent Robotics
+- I mainly code using Python and Matlab
+- Discuss me things about Ship and Naval things, 3D Designs, CFD, Computer Vision and Robotics
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/andreassitorus/)
+- I'm a Naval Architecture and Shipbuilding Engineering graduate!
 
 Nice to know you!
-
-and,
-
-***GODSPEED!***
 
 <p align="left">
 <a href="https://github.com/AndreasKing-Goks">
